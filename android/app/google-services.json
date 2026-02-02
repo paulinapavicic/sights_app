@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307700719288",
+    "project_id": "sights-app-bc029",
+    "storage_bucket": "sights-app-bc029.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307700719288:android:2183005887d23490235e4d",
+        "android_client_info": {
+          "package_name": "hr.algebra.sights_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9vmK-gtB5UCsJ3xBj72MPQM_luRjDzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
